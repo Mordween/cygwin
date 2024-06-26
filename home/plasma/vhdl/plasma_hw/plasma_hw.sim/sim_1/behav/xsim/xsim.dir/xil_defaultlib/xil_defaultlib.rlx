@@ -1,0 +1,21 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/cygwin/home/alexandre/plasma/vhdl/alu.vhd,1680254102,vhdl,,,,alu,,,,,,,,
+C:/cygwin/home/alexandre/plasma/vhdl/bus_mux.vhd,1680254103,vhdl,,,,bus_mux,,,,,,,,
+C:/cygwin/home/alexandre/plasma/vhdl/cache.vhd,1680254103,vhdl,,,,cache,,,,,,,,
+C:/cygwin/home/alexandre/plasma/vhdl/control.vhd,1680254103,vhdl,,,,control,,,,,,,,
+C:/cygwin/home/alexandre/plasma/vhdl/eth_dma.vhd,1680254103,vhdl,,,,eth_dma,,,,,,,,
+C:/cygwin/home/alexandre/plasma/vhdl/mem_ctrl.vhd,1680254103,vhdl,,,,mem_ctrl,,,,,,,,
+C:/cygwin/home/alexandre/plasma/vhdl/mlite_cpu.vhd,1680254103,vhdl,,,,mlite_cpu,,,,,,,,
+C:/cygwin/home/alexandre/plasma/vhdl/mlite_pack.vhd,1680254103,vhdl,C:/cygwin/home/alexandre/plasma/vhdl/ram.vhd,,,mlite_pack,,,,,,,,
+C:/cygwin/home/alexandre/plasma/vhdl/mult.vhd,1680254103,vhdl,,,,mult,,,,,,,,
+C:/cygwin/home/alexandre/plasma/vhdl/pc_next.vhd,1680254103,vhdl,,,,pc_next,,,,,,,,
+C:/cygwin/home/alexandre/plasma/vhdl/pipeline.vhd,1680254103,vhdl,,,,pipeline,,,,,,,,
+C:/cygwin/home/alexandre/plasma/vhdl/plasma.vhd,1680873789,vhdl,,,,plasma,,,,,,,,
+C:/cygwin/home/alexandre/plasma/vhdl/ram.vhd,1680874003,vhdl,,,,ram,,,,,,,,
+C:/cygwin/home/alexandre/plasma/vhdl/reg_bank.vhd,1680254104,vhdl,,,,reg_bank,,,,,,,,
+C:/cygwin/home/alexandre/plasma/vhdl/shifter.vhd,1680254104,vhdl,,,,shifter,,,,,,,,
+C:/cygwin/home/alexandre/plasma/vhdl/tbench.vhd,1680254104,vhdl,,,,tbench,,,,,,,,
+C:/cygwin/home/alexandre/plasma/vhdl/uart.vhd,1680254104,vhdl,,,,uart,,,,,,,,

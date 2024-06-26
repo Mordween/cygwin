@@ -1,0 +1,22 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../mlite_pack.vhd" \
+"../../../../../alu.vhd" \
+"../../../../../bus_mux.vhd" \
+"../../../../../cache.vhd" \
+"../../../../../control.vhd" \
+"../../../../../eth_dma.vhd" \
+"../../../../../mem_ctrl.vhd" \
+"../../../../../mlite_cpu.vhd" \
+"../../../../../mult.vhd" \
+"../../../../../pc_next.vhd" \
+"../../../../../pipeline.vhd" \
+"../../../../../plasma.vhd" \
+"../../../../../ram.vhd" \
+"../../../../../reg_bank.vhd" \
+"../../../../../shifter.vhd" \
+"../../../../../uart.vhd" \
+"../../../../../tbench.vhd" \
+
+# Do not sort compile order
+nosort

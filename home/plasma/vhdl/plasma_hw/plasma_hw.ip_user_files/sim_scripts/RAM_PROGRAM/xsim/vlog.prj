@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../plasma_hw.gen/sources_1/ip/RAM_PROGRAM/sim/RAM_PROGRAM.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

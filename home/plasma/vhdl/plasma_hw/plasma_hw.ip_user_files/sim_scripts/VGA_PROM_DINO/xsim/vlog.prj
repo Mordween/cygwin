@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../plasma_hw.gen/sources_1/ip/VGA_PROM_DINO/sim/VGA_PROM_DINO.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

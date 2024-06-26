@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="mlite_pack" />
+            <top_module name="tbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="999994fs"></ZoomStartTime>
+      <ZoomEndTime time="1000002fs"></ZoomEndTime>
+      <Cursor1Time time="1000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="189"></NameColumnWidth>
+      <ValueColumnWidth column_width="117"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="24" />
+   <wvobject fp_name="/tbench/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tbench/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider256">
+      <obj_property name="label">PC &amp; OPCODE</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tbench/u1_plasma/u1_cpu/u1_pc_next/pc_current" type="array">
+      <obj_property name="ElementShortName">pc_current[31:2]</obj_property>
+      <obj_property name="ObjectShortName">pc_current[31:2]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tbench/u1_plasma/u1_cpu/u1_pc_next/pc_future" type="array">
+      <obj_property name="ElementShortName">pc_future[31:2]</obj_property>
+      <obj_property name="ObjectShortName">pc_future[31:2]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tbench/u1_plasma/u1_cpu/u1_pc_next/opcode25_0" type="array">
+      <obj_property name="ElementShortName">opcode25_0[25:0]</obj_property>
+      <obj_property name="ObjectShortName">opcode25_0[25:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tbench/u1_plasma/u1_cpu/u1_pc_next/pause_in" type="logic">
+      <obj_property name="ElementShortName">pause_in</obj_property>
+      <obj_property name="ObjectShortName">pause_in</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider261">
+      <obj_property name="label">REGISTER FILE</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tbench/u1_plasma/u1_cpu/u4_reg_bank/rs_index" type="array">
+      <obj_property name="ElementShortName">rs_index[5:0]</obj_property>
+      <obj_property name="ObjectShortName">rs_index[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tbench/u1_plasma/u1_cpu/u4_reg_bank/rt_index" type="array">
+      <obj_property name="ElementShortName">rt_index[5:0]</obj_property>
+      <obj_property name="ObjectShortName">rt_index[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tbench/u1_plasma/u1_cpu/u4_reg_bank/rd_index" type="array">
+      <obj_property name="ElementShortName">rd_index[5:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_index[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tbench/u1_plasma/u1_cpu/u4_reg_bank/reg_source_out" type="array">
+      <obj_property name="ElementShortName">reg_source_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">reg_source_out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tbench/u1_plasma/u1_cpu/u4_reg_bank/reg_target_out" type="array">
+      <obj_property name="ElementShortName">reg_target_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">reg_target_out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tbench/u1_plasma/u1_cpu/u4_reg_bank/reg_dest_new" type="array">
+      <obj_property name="ElementShortName">reg_dest_new[31:0]</obj_property>
+      <obj_property name="ObjectShortName">reg_dest_new[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tbench/u1_plasma/u1_cpu/u4_reg_bank/write_enable" type="logic">
+      <obj_property name="ElementShortName">write_enable</obj_property>
+      <obj_property name="ObjectShortName">write_enable</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider269">
+      <obj_property name="label">MEMORY</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tbench/u1_plasma/u1_cpu/u2_mem_ctrl/address" type="array">
+      <obj_property name="ElementShortName">address[31:2]</obj_property>
+      <obj_property name="ObjectShortName">address[31:2]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tbench/u1_plasma/u1_cpu/u2_mem_ctrl/data_write" type="array">
+      <obj_property name="ElementShortName">data_write[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_write[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tbench/u1_plasma/u1_cpu/u2_mem_ctrl/data_read" type="array">
+      <obj_property name="ElementShortName">data_read[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_read[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tbench/u1_plasma/u2_ram/write_byte_enable" type="array">
+      <obj_property name="ElementShortName">write_byte_enable[3:0]</obj_property>
+      <obj_property name="ObjectShortName">write_byte_enable[3:0]</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider274">
+      <obj_property name="label">ALU</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tbench/u1_plasma/u1_cpu/u6_alu/a_in" type="array">
+      <obj_property name="ElementShortName">a_in[31:0]</obj_property>
+      <obj_property name="ObjectShortName">a_in[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tbench/u1_plasma/u1_cpu/u6_alu/b_in" type="array">
+      <obj_property name="ElementShortName">b_in[31:0]</obj_property>
+      <obj_property name="ObjectShortName">b_in[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tbench/u1_plasma/u1_cpu/u6_alu/c_alu" type="array">
+      <obj_property name="ElementShortName">c_alu[31:0]</obj_property>
+      <obj_property name="ObjectShortName">c_alu[31:0]</obj_property>
+   </wvobject>
+</wave_config>

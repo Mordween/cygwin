@@ -1,0 +1,19 @@
+cd ..
+cd ..
+cd ..
+cd home
+cd alexandre/
+cd plasma/
+export PATH=/home/alexandre/plasma/gccmips_elf:$PATH
+
+
+
+
+
+
+
+
+make test_led
+make toimage
+
+

@@ -1,0 +1,1 @@
+-wto "75a430b10357443cb9afbeab5cac88f3" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "tbench_behav" "xil_defaultlib.tbench" -log "elaborate.log" 

@@ -1,0 +1,308 @@
+2021/05/11 10:47:36 Starting cygwin install, version 2.908
+2021/05/11 10:47:36 User has NO backup/restore rights
+2021/05/11 10:47:36 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2021/05/11 10:47:36 Current Directory: C:\Users\Administrateur\Downloads
+2021/05/11 10:47:48 source: network install
+2021/05/11 10:48:03 source: network install
+2021/05/11 10:48:08 root: C:\cygwin system
+2021/05/11 10:48:32 source: network install
+2021/05/11 10:48:34 root: C:\cygwin system
+2021/05/11 10:48:53 Selected local directory: C:\Users\Administrateur\Downloads
+2021/05/11 10:49:02 net: Preconfig
+2021/05/11 10:49:26 site: https://mirrors.filigrane-technologie.fr/cygwin/
+2021/05/11 10:49:46 io_stream_cygfile: fopen(/etc/setup/timestamp) failed 2 No such file or directory
+2021/05/11 10:49:46 io_stream_cygfile: fopen(/etc/setup/installed.db) failed 2 No such file or directory
+2021/05/11 10:49:46 solving: 37 tasks, update: yes, use test packages: no
+2021/05/11 10:52:51 solving: 75 tasks, update: no, use test packages: no
+2021/05/11 10:52:51 Augmented Transaction List:
+2021/05/11 10:52:51    0 install base-cygwin              3.8-1          
+2021/05/11 10:52:51    1 install cygwin                   3.2.0-1        
+2021/05/11 10:52:51    2 install libpopt-common           1.18-1         
+2021/05/11 10:52:51    3 install terminfo                 6.1-1.20190727 
+2021/05/11 10:52:51    4 install tzdata                   2021a-1        
+2021/05/11 10:52:51    5 install cygwin-devel             3.2.0-1        
+2021/05/11 10:52:51    6 install w32api-headers           8.0.0-1        
+2021/05/11 10:52:51    7 install windows-default-manifest 6.4-1          
+2021/05/11 10:52:51    8 install libatomic1               10.2.0-1       
+2021/05/11 10:52:51    9 install libltdl7                 2.4.6-7        
+2021/05/11 10:52:51   10 install which                    2.20-2         
+2021/05/11 10:52:51   11 install run                      1.3.4-2        
+2021/05/11 10:52:51   12 install mintty                   3.5.0-1        
+2021/05/11 10:52:51   13 install login                    1.13-1         
+2021/05/11 10:52:51   14 install libsigsegv2              2.10-2         
+2021/05/11 10:52:51   15 install libpcre1                 8.44-2         
+2021/05/11 10:52:51   16 install liblzma5                 5.2.4-1        
+2021/05/11 10:52:51   17 install liblz4_1                 1.7.5-1        
+2021/05/11 10:52:51   18 install libiconv2                1.16-2         
+2021/05/11 10:52:51   19 install libgmp10                 6.2.1-1        
+2021/05/11 10:52:51   20 install libgcc1                  10.2.0-1       
+2021/05/11 10:52:51   21 install libffi6                  3.2.1-1        
+2021/05/11 10:52:51   22 install libbz2_1                 1.0.8-1        
+2021/05/11 10:52:51   23 install libargp                  20110921-3     
+2021/05/11 10:52:51   24 install ipc-utils                1.0-1          
+2021/05/11 10:52:51   25 install hostname                 3.13-1         
+2021/05/11 10:52:51   26 install editrights               1.03-1         
+2021/05/11 10:52:51   27 install dash                     0.5.9.1-1      
+2021/05/11 10:52:51   28 install terminfo-extra           6.1-1.20190727 
+2021/05/11 10:52:51   29 install w32api-runtime           8.0.0-1        
+2021/05/11 10:52:51   30 install libintl8                 0.19.8.1-2     
+2021/05/11 10:52:51   31 install libisl22                 0.22.1-2       
+2021/05/11 10:52:51   32 install libzstd1                 1.4.9-1        
+2021/05/11 10:52:51   33 install libquadmath0             10.2.0-1       
+2021/05/11 10:52:51   34 install libgomp1                 10.2.0-1       
+2021/05/11 10:52:51   35 install libunistring2            0.9.10-1       
+2021/05/11 10:52:51   36 install libgc1                   8.0.4-1        
+2021/05/11 10:52:51   37 install libcrypt2                4.4.4-1        
+2021/05/11 10:52:51   38 install zlib0                    1.2.11-1       
+2021/05/11 10:52:51   39 install libtasn1_6               4.14-1         
+2021/05/11 10:52:51   40 install libstdc++6               10.2.0-1       
+2021/05/11 10:52:51   41 install libpipeline1             1.5.3-1        
+2021/05/11 10:52:51   42 install libmpfr6                 4.1.0-1        
+2021/05/11 10:52:51   43 install getent                   2.18.90-4      
+2021/05/11 10:52:51   44 install _autorebase              001007-1       
+2021/05/11 10:52:51   45 install libncursesw10            6.1-1.20190727 
+2021/05/11 10:52:51   46 install sed                      4.4-1          
+2021/05/11 10:52:51   47 install libuuid1                 2.33.1-2       
+2021/05/11 10:52:51   48 install libsmartcols1            2.33.1-2       
+2021/05/11 10:52:51   49 install libpopt0                 1.18-1         
+2021/05/11 10:52:51   50 install libp11-kit0              0.23.20-1      
+2021/05/11 10:52:51   51 install libgdbm6                 1.18.1-1       
+2021/05/11 10:52:51   52 install libattr1                 2.4.48-2       
+2021/05/11 10:52:51   53 install diffutils                3.5-2          
+2021/05/11 10:52:51   54 install alternatives             1.3.30c-10     
+2021/05/11 10:52:51   55 install binutils                 2.36.1-2       
+2021/05/11 10:52:51   56 install file                     5.39-1         
+2021/05/11 10:52:51   57 install libmpc3                  1.2.1-1        
+2021/05/11 10:52:51   58 install vim-minimal              8.2.0486-1     
+2021/05/11 10:52:51   59 install ncurses                  6.1-1.20190727 
+2021/05/11 10:52:51   60 install libreadline7             7.0.3-3        
+2021/05/11 10:52:51   61 install less                     581.2-1        
+2021/05/11 10:52:51   62 install info                     6.7-1          
+2021/05/11 10:52:51   63 install libblkid1                2.33.1-2       
+2021/05/11 10:52:51   64 install cygutils                 1.4.16-2       
+2021/05/11 10:52:51   65 install p11-kit-trust            0.23.20-1      
+2021/05/11 10:52:51   66 install p11-kit                  0.23.20-1      
+2021/05/11 10:52:51   67 install libguile2.2_1            2.2.7-1        
+2021/05/11 10:52:51   68 install gawk                     5.1.0-1        
+2021/05/11 10:52:51   69 install coreutils                8.26-2         
+2021/05/11 10:52:51   70 install libfdisk1                2.33.1-2       
+2021/05/11 10:52:51   71 install make                     4.3-1          
+2021/05/11 10:52:51   72 install bash                     4.4.12-3       
+2021/05/11 10:52:51   73 install util-linux               2.33.1-2       
+2021/05/11 10:52:51   74 install tzcode                   2021a-1        
+2021/05/11 10:52:51   75 install zstd                     1.4.9-1        
+2021/05/11 10:52:51   76 install xz                       5.2.4-1        
+2021/05/11 10:52:51   77 install gzip                     1.8-1          
+2021/05/11 10:52:51   78 install groff                    1.22.4-1       
+2021/05/11 10:52:51   79 install grep                     3.0-2          
+2021/05/11 10:52:51   80 install gcc-core                 10.2.0-1       
+2021/05/11 10:52:51   81 install findutils                4.6.0-1        
+2021/05/11 10:52:51   82 install crypto-policies          20190218-1     
+2021/05/11 10:52:51   83 install ca-certificates          2.40-1         
+2021/05/11 10:52:51   84 install bzip2                    1.0.8-1        
+2021/05/11 10:52:51   85 install man-db                   2.9.4-1        
+2021/05/11 10:52:51   86 install rebase                   4.4.4-1        
+2021/05/11 10:52:51   87 install base-files               4.3-3          
+2021/05/11 10:52:51   88 install libssl1.1                1.1.1f-1       
+2021/05/11 10:52:51   89 install tar                      1.34-1         
+2021/05/11 10:52:51   90 install openssl                  1.1.1f-1       
+2021/05/11 10:52:54 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/noarch/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+2021/05/11 10:53:05 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/cygwin/cygwin-3.2.0-1.tar.xz
+2021/05/11 10:53:05 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/popt/libpopt-common/libpopt-common-1.18-1.tar.xz
+2021/05/11 10:53:05 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/ncurses/terminfo/terminfo-6.1-1.20190727.tar.xz
+2021/05/11 10:53:06 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/noarch/release/tzdata/tzdata-2021a-1.tar.xz
+2021/05/11 10:53:06 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/cygwin/cygwin-devel/cygwin-devel-3.2.0-1.tar.xz
+2021/05/11 10:53:23 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/w32api-headers/w32api-headers-8.0.0-1.tar.xz
+2021/05/11 10:53:23 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/windows-default-manifest/windows-default-manifest-6.4-1.tar.xz
+2021/05/11 10:53:23 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/gcc/libatomic1/libatomic1-10.2.0-1.tar.xz
+2021/05/11 10:53:23 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/libtool/libltdl7/libltdl7-2.4.6-7.tar.xz
+2021/05/11 10:53:23 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/which/which-2.20-2.tar.bz2
+2021/05/11 10:53:23 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/run/run-1.3.4-2.tar.xz
+2021/05/11 10:53:24 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/mintty/mintty-3.5.0-1.tar.xz
+2021/05/11 10:53:24 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/login/login-1.13-1.tar.xz
+2021/05/11 10:53:25 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/libsigsegv/libsigsegv2/libsigsegv2-2.10-2.tar.xz
+2021/05/11 10:53:25 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/pcre/libpcre1/libpcre1-8.44-2.tar.xz
+2021/05/11 10:53:25 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/xz/liblzma5/liblzma5-5.2.4-1.tar.xz
+2021/05/11 10:53:26 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/lz4/liblz4_1/liblz4_1-1.7.5-1.tar.xz
+2021/05/11 10:53:27 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/libiconv/libiconv2/libiconv2-1.16-2.tar.xz
+2021/05/11 10:53:28 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/gmp/libgmp10/libgmp10-6.2.1-1.tar.xz
+2021/05/11 10:53:28 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/gcc/libgcc1/libgcc1-10.2.0-1.tar.xz
+2021/05/11 10:53:29 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/libffi/libffi6/libffi6-3.2.1-1.tar.xz
+2021/05/11 10:53:29 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/bzip2/libbz2_1/libbz2_1-1.0.8-1.tar.xz
+2021/05/11 10:53:29 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/libargp/libargp-20110921-3.tar.xz
+2021/05/11 10:53:29 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/ipc-utils/ipc-utils-1.0-1.tar.bz2
+2021/05/11 10:53:29 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/hostname/hostname-3.13-1.tar.bz2
+2021/05/11 10:53:29 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/editrights/editrights-1.03-1.tar.xz
+2021/05/11 10:53:30 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/dash/dash-0.5.9.1-1.tar.xz
+2021/05/11 10:53:32 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/ncurses/terminfo-extra/terminfo-extra-6.1-1.20190727.tar.xz
+2021/05/11 10:53:40 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/w32api-runtime/w32api-runtime-8.0.0-1.tar.xz
+2021/05/11 10:53:40 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/gettext/libintl8/libintl8-0.19.8.1-2.tar.xz
+2021/05/11 10:53:41 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/isl/libisl22/libisl22-0.22.1-2.tar.xz
+2021/05/11 10:53:42 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/zstd/libzstd1/libzstd1-1.4.9-1.tar.zst
+2021/05/11 10:53:42 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/gcc/libquadmath0/libquadmath0-10.2.0-1.tar.xz
+2021/05/11 10:53:43 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/gcc/libgomp1/libgomp1-10.2.0-1.tar.xz
+2021/05/11 10:53:46 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/libunistring/libunistring2/libunistring2-0.9.10-1.tar.xz
+2021/05/11 10:53:46 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/libgc/libgc1/libgc1-8.0.4-1.tar.xz
+2021/05/11 10:53:46 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/libxcrypt/libcrypt2/libcrypt2-4.4.4-1.tar.xz
+2021/05/11 10:53:46 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/zlib/zlib0/zlib0-1.2.11-1.tar.xz
+2021/05/11 10:53:47 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/libtasn1/libtasn1_6/libtasn1_6-4.14-1.tar.xz
+2021/05/11 10:53:47 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/gcc/libstdc++6/libstdc++6-10.2.0-1.tar.xz
+2021/05/11 10:53:47 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/libpipeline/libpipeline1/libpipeline1-1.5.3-1.tar.xz
+2021/05/11 10:53:51 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/mpfr/libmpfr6/libmpfr6-4.1.0-1.tar.xz
+2021/05/11 10:53:51 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/getent/getent-2.18.90-4.tar.xz
+2021/05/11 10:53:51 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/noarch/release/_autorebase/_autorebase-001007-1.tar.xz
+2021/05/11 10:53:52 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/ncurses/libncursesw10/libncursesw10-6.1-1.20190727.tar.xz
+2021/05/11 10:53:53 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/sed/sed-4.4-1.tar.xz
+2021/05/11 10:53:53 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/util-linux/libuuid1/libuuid1-2.33.1-2.tar.xz
+2021/05/11 10:53:53 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/util-linux/libsmartcols1/libsmartcols1-2.33.1-2.tar.xz
+2021/05/11 10:53:53 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/popt/libpopt0/libpopt0-1.18-1.tar.xz
+2021/05/11 10:53:54 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/p11-kit/libp11-kit0/libp11-kit0-0.23.20-1.tar.xz
+2021/05/11 10:53:54 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/gdbm/libgdbm6/libgdbm6-1.18.1-1.tar.xz
+2021/05/11 10:53:54 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/attr/libattr1/libattr1-2.4.48-2.tar.xz
+2021/05/11 10:53:56 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/diffutils/diffutils-3.5-2.tar.xz
+2021/05/11 10:53:56 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+2021/05/11 10:54:22 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/binutils/binutils-2.36.1-2.tar.zst
+2021/05/11 10:54:24 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/file/file-5.39-1.tar.xz
+2021/05/11 10:54:24 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/mpclib/libmpc3/libmpc3-1.2.1-1.tar.xz
+2021/05/11 10:54:29 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/vim/vim-minimal/vim-minimal-8.2.0486-1.tar.xz
+2021/05/11 10:54:31 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/ncurses/ncurses-6.1-1.20190727.tar.xz
+2021/05/11 10:54:31 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/readline/libreadline7/libreadline7-7.0.3-3.tar.xz
+2021/05/11 10:54:32 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/less/less-581.2-1.tar.xz
+2021/05/11 10:54:33 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/texinfo/info/info-6.7-1.tar.xz
+2021/05/11 10:54:34 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/util-linux/libblkid1/libblkid1-2.33.1-2.tar.xz
+2021/05/11 10:54:34 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/cygutils/cygutils-1.4.16-2.tar.xz
+2021/05/11 10:54:34 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/p11-kit/p11-kit-trust/p11-kit-trust-0.23.20-1.tar.xz
+2021/05/11 10:54:34 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/p11-kit/p11-kit-0.23.20-1.tar.xz
+2021/05/11 10:55:08 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/guile2.2/libguile2.2_1/libguile2.2_1-2.2.7-1.tar.xz
+2021/05/11 10:55:14 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/gawk/gawk-5.1.0-1.tar.xz
+2021/05/11 10:55:17 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/coreutils/coreutils-8.26-2.tar.xz
+2021/05/11 10:55:17 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/util-linux/libfdisk1/libfdisk1-2.33.1-2.tar.xz
+2021/05/11 10:55:18 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/make/make-4.3-1.tar.xz
+2021/05/11 10:55:18 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/bash/bash-4.4.12-3.tar.xz
+2021/05/11 10:55:19 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/util-linux/util-linux-2.33.1-2.tar.xz
+2021/05/11 10:55:19 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/tzcode/tzcode-2021a-1.tar.xz
+2021/05/11 10:55:19 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/zstd/zstd-1.4.9-1.tar.zst
+2021/05/11 10:55:20 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/xz/xz-5.2.4-1.tar.xz
+2021/05/11 10:55:20 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/gzip/gzip-1.8-1.tar.xz
+2021/05/11 10:55:22 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/groff/groff-1.22.4-1.tar.xz
+2021/05/11 10:55:25 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/grep/grep-3.0-2.tar.xz
+2021/05/11 10:57:22 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/gcc/gcc-core/gcc-core-10.2.0-1.tar.xz
+2021/05/11 10:57:23 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/findutils/findutils-4.6.0-1.tar.xz
+2021/05/11 10:57:23 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/noarch/release/crypto-policies/crypto-policies-20190218-1.tar.xz
+2021/05/11 10:57:23 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/noarch/release/ca-certificates/ca-certificates-2.40-1.tar.xz
+2021/05/11 10:57:23 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/bzip2/bzip2-1.0.8-1.tar.xz
+2021/05/11 10:57:25 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/man-db/man-db-2.9.4-1.tar.zst
+2021/05/11 10:57:25 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/rebase/rebase-4.4.4-1.tar.xz
+2021/05/11 10:57:25 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/noarch/release/base-files/base-files-4.3-3.tar.zst
+2021/05/11 10:57:27 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/openssl/libssl1.1/libssl1.1-1.1.1f-1.tar.xz
+2021/05/11 10:57:28 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/tar/tar-1.34-1.tar.zst
+2021/05/11 10:57:29 Downloaded C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/openssl/openssl-1.1.1f-1.tar.xz
+2021/05/11 10:57:30 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/noarch/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+2021/05/11 10:57:30 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/cygwin/cygwin-3.2.0-1.tar.xz
+2021/05/11 10:57:30 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/popt/libpopt-common/libpopt-common-1.18-1.tar.xz
+2021/05/11 10:57:30 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/ncurses/terminfo/terminfo-6.1-1.20190727.tar.xz
+2021/05/11 10:57:31 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/noarch/release/tzdata/tzdata-2021a-1.tar.xz
+2021/05/11 10:57:40 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/cygwin/cygwin-devel/cygwin-devel-3.2.0-1.tar.xz
+2021/05/11 10:57:41 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/w32api-headers/w32api-headers-8.0.0-1.tar.xz
+2021/05/11 10:57:47 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/windows-default-manifest/windows-default-manifest-6.4-1.tar.xz
+2021/05/11 10:57:47 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/gcc/libatomic1/libatomic1-10.2.0-1.tar.xz
+2021/05/11 10:57:47 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/libtool/libltdl7/libltdl7-2.4.6-7.tar.xz
+2021/05/11 10:57:47 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/which/which-2.20-2.tar.bz2
+2021/05/11 10:57:47 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/run/run-1.3.4-2.tar.xz
+2021/05/11 10:57:47 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/mintty/mintty-3.5.0-1.tar.xz
+2021/05/11 10:57:47 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/login/login-1.13-1.tar.xz
+2021/05/11 10:57:47 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/libsigsegv/libsigsegv2/libsigsegv2-2.10-2.tar.xz
+2021/05/11 10:57:47 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/pcre/libpcre1/libpcre1-8.44-2.tar.xz
+2021/05/11 10:57:47 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/xz/liblzma5/liblzma5-5.2.4-1.tar.xz
+2021/05/11 10:57:47 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/lz4/liblz4_1/liblz4_1-1.7.5-1.tar.xz
+2021/05/11 10:57:47 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/libiconv/libiconv2/libiconv2-1.16-2.tar.xz
+2021/05/11 10:57:47 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/gmp/libgmp10/libgmp10-6.2.1-1.tar.xz
+2021/05/11 10:57:47 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/gcc/libgcc1/libgcc1-10.2.0-1.tar.xz
+2021/05/11 10:57:47 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/libffi/libffi6/libffi6-3.2.1-1.tar.xz
+2021/05/11 10:57:47 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/bzip2/libbz2_1/libbz2_1-1.0.8-1.tar.xz
+2021/05/11 10:57:47 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/libargp/libargp-20110921-3.tar.xz
+2021/05/11 10:57:47 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/ipc-utils/ipc-utils-1.0-1.tar.bz2
+2021/05/11 10:57:47 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/hostname/hostname-3.13-1.tar.bz2
+2021/05/11 10:57:48 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/editrights/editrights-1.03-1.tar.xz
+2021/05/11 10:57:48 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/dash/dash-0.5.9.1-1.tar.xz
+2021/05/11 10:57:48 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/ncurses/terminfo-extra/terminfo-extra-6.1-1.20190727.tar.xz
+2021/05/11 10:57:59 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/w32api-runtime/w32api-runtime-8.0.0-1.tar.xz
+2021/05/11 10:58:01 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/gettext/libintl8/libintl8-0.19.8.1-2.tar.xz
+2021/05/11 10:58:01 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/isl/libisl22/libisl22-0.22.1-2.tar.xz
+2021/05/11 10:58:01 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/zstd/libzstd1/libzstd1-1.4.9-1.tar.zst
+2021/05/11 10:58:01 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/gcc/libquadmath0/libquadmath0-10.2.0-1.tar.xz
+2021/05/11 10:58:01 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/gcc/libgomp1/libgomp1-10.2.0-1.tar.xz
+2021/05/11 10:58:01 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/libunistring/libunistring2/libunistring2-0.9.10-1.tar.xz
+2021/05/11 10:58:01 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/libgc/libgc1/libgc1-8.0.4-1.tar.xz
+2021/05/11 10:58:01 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/libxcrypt/libcrypt2/libcrypt2-4.4.4-1.tar.xz
+2021/05/11 10:58:01 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/zlib/zlib0/zlib0-1.2.11-1.tar.xz
+2021/05/11 10:58:01 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/libtasn1/libtasn1_6/libtasn1_6-4.14-1.tar.xz
+2021/05/11 10:58:01 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/gcc/libstdc++6/libstdc++6-10.2.0-1.tar.xz
+2021/05/11 10:58:01 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/libpipeline/libpipeline1/libpipeline1-1.5.3-1.tar.xz
+2021/05/11 10:58:01 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/mpfr/libmpfr6/libmpfr6-4.1.0-1.tar.xz
+2021/05/11 10:58:02 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/getent/getent-2.18.90-4.tar.xz
+2021/05/11 10:58:02 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/noarch/release/_autorebase/_autorebase-001007-1.tar.xz
+2021/05/11 10:58:02 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/ncurses/libncursesw10/libncursesw10-6.1-1.20190727.tar.xz
+2021/05/11 10:58:02 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/sed/sed-4.4-1.tar.xz
+2021/05/11 10:58:02 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/util-linux/libuuid1/libuuid1-2.33.1-2.tar.xz
+2021/05/11 10:58:02 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/util-linux/libsmartcols1/libsmartcols1-2.33.1-2.tar.xz
+2021/05/11 10:58:02 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/popt/libpopt0/libpopt0-1.18-1.tar.xz
+2021/05/11 10:58:02 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/p11-kit/libp11-kit0/libp11-kit0-0.23.20-1.tar.xz
+2021/05/11 10:58:02 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/gdbm/libgdbm6/libgdbm6-1.18.1-1.tar.xz
+2021/05/11 10:58:02 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/attr/libattr1/libattr1-2.4.48-2.tar.xz
+2021/05/11 10:58:02 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/diffutils/diffutils-3.5-2.tar.xz
+2021/05/11 10:58:03 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+2021/05/11 10:58:03 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/binutils/binutils-2.36.1-2.tar.zst
+2021/05/11 10:58:05 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/file/file-5.39-1.tar.xz
+2021/05/11 10:58:05 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/mpclib/libmpc3/libmpc3-1.2.1-1.tar.xz
+2021/05/11 10:58:05 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/vim/vim-minimal/vim-minimal-8.2.0486-1.tar.xz
+2021/05/11 10:58:05 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/ncurses/ncurses-6.1-1.20190727.tar.xz
+2021/05/11 10:58:06 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/readline/libreadline7/libreadline7-7.0.3-3.tar.xz
+2021/05/11 10:58:06 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/less/less-581.2-1.tar.xz
+2021/05/11 10:58:06 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/texinfo/info/info-6.7-1.tar.xz
+2021/05/11 10:58:06 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/util-linux/libblkid1/libblkid1-2.33.1-2.tar.xz
+2021/05/11 10:58:06 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/cygutils/cygutils-1.4.16-2.tar.xz
+2021/05/11 10:58:06 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/p11-kit/p11-kit-trust/p11-kit-trust-0.23.20-1.tar.xz
+2021/05/11 10:58:06 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/p11-kit/p11-kit-0.23.20-1.tar.xz
+2021/05/11 10:58:06 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/guile2.2/libguile2.2_1/libguile2.2_1-2.2.7-1.tar.xz
+2021/05/11 10:58:12 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/gawk/gawk-5.1.0-1.tar.xz
+2021/05/11 10:58:12 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/coreutils/coreutils-8.26-2.tar.xz
+2021/05/11 10:58:14 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/util-linux/libfdisk1/libfdisk1-2.33.1-2.tar.xz
+2021/05/11 10:58:14 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/make/make-4.3-1.tar.xz
+2021/05/11 10:58:15 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/bash/bash-4.4.12-3.tar.xz
+2021/05/11 10:58:16 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/util-linux/util-linux-2.33.1-2.tar.xz
+2021/05/11 10:58:16 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/tzcode/tzcode-2021a-1.tar.xz
+2021/05/11 10:58:16 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/zstd/zstd-1.4.9-1.tar.zst
+2021/05/11 10:58:16 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/xz/xz-5.2.4-1.tar.xz
+2021/05/11 10:58:17 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/gzip/gzip-1.8-1.tar.xz
+2021/05/11 10:58:17 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/groff/groff-1.22.4-1.tar.xz
+2021/05/11 10:58:20 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/grep/grep-3.0-2.tar.xz
+2021/05/11 10:58:21 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/gcc/gcc-core/gcc-core-10.2.0-1.tar.xz
+2021/05/11 10:58:27 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/findutils/findutils-4.6.0-1.tar.xz
+2021/05/11 10:58:28 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/noarch/release/crypto-policies/crypto-policies-20190218-1.tar.xz
+2021/05/11 10:58:28 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/noarch/release/ca-certificates/ca-certificates-2.40-1.tar.xz
+2021/05/11 10:58:28 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/bzip2/bzip2-1.0.8-1.tar.xz
+2021/05/11 10:58:28 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/man-db/man-db-2.9.4-1.tar.zst
+2021/05/11 10:58:30 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/rebase/rebase-4.4.4-1.tar.xz
+2021/05/11 10:58:30 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/noarch/release/base-files/base-files-4.3-3.tar.zst
+2021/05/11 10:58:30 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/openssl/libssl1.1/libssl1.1-1.1.1f-1.tar.xz
+2021/05/11 10:58:31 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/tar/tar-1.34-1.tar.zst
+2021/05/11 10:58:31 Extracting from file://C:\Users\Administrateur\Downloads/https%3a%2f%2fmirrors.filigrane-technologie.fr%2fcygwin%2f/x86/release/openssl/openssl-1.1.1f-1.tar.xz
+2021/05/11 10:58:32 Changing gid back to original
+2021/05/11 10:58:32 running: C:\cygwin\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2021/05/11 10:59:34 running: C:\cygwin\bin\dash.exe "/etc/postinstall/0p_update-info-dir.dash"
+2021/05/11 10:59:39 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/000-cygwin-post-install.sh"
+2021/05/11 10:59:39 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/coreutils.sh"
+2021/05/11 10:59:40 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/bash.sh"
+2021/05/11 10:59:41 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-mketc.sh"
+2021/05/11 10:59:42 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-profile.sh"
+2021/05/11 10:59:45 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/p11-kit.sh"
+2021/05/11 10:59:45 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/ca-certificates.sh"
+2021/05/11 10:59:51 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/crypto-policies.sh"
+2021/05/11 10:59:57 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/openssl.sh"
+2021/05/11 10:59:58 running: C:\cygwin\bin\dash.exe "/etc/postinstall/man-db.dash"
+2021/05/11 10:59:58 running: C:\cygwin\bin\bash.exe --norc --noprofile "/etc/postinstall/mintty.sh"
+2021/05/11 10:59:58 running: C:\cygwin\bin\dash.exe "/etc/postinstall/zp_man-db-update-index.dash"
+2021/05/11 10:59:58 Changing gid to Administrators
+2021/05/11 11:00:55 note: Installation Complete
+2021/05/11 11:00:55 Ending cygwin install
